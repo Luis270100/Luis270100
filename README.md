@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Luis Hernandez also known as Huicho ([@Luis270100](https://github.com/Luis270100))
 
-I'm a passionate developer from Querétaro, Mexico, dedicated to creating high-quality software. I focus on details and am fascinated by new technologies and ideas. Problem-solving and human creativity inspire me. ✌️
+I'm a passionate dedicated to creating high-quality software. I focus on details and am fascinated by new technologies and ideas. Problem-solving and human creativity inspire me. ✌️
 
 ---
 
