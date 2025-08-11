@@ -42,3 +42,5 @@ I'm continuously exploring and learning about:
 - 💬 Ask me about Flutter development, software architecture (MVVM, SOLID, Clean Architecture), and cross-platform app development. 
 - 📫 How to reach me: Connect with me via GitHub [https://github.com/Luis270100](https://github.com/Luis270100) or message me through GitHub Discussions or Issues on my repositories.
 
+ LinkedIn: [https://www.linkedin.com/in/luis-arturo-hernandez-067670194/](https://www.linkedin.com/in/luis-arturo-hernandez-067670194/)
+
